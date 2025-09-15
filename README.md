@@ -82,7 +82,7 @@ Screenshot of Web App:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/satyajit2506/Customer-Churn.git
 
 
 Install dependencies:
